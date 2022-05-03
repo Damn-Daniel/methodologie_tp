@@ -8,3 +8,13 @@ body {
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+
+table .one>td{
+    background-color: rgba(134, 134, 134, 0.473);
+    padding-right: 40px;
+}
+table .two>td{
+    background-color: rgba(209, 209, 209, 0.637);
+    padding-right: 40px;
+}
+
