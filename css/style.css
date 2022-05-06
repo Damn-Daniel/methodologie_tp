@@ -49,5 +49,10 @@ table .two>td{
 .patinRow{
     max-height:50px;
 }
+
+.patins:hover{
+    transform: scale(1.5);
+
+}
 }
 
