@@ -8,35 +8,3 @@ body {
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-
-table .one>td{
-    background-color: rgba(134, 134, 134, 0.473);
-    padding-right: 40px;
-}
-table .two>td{
-    background-color: rgba(209, 209, 209, 0.637);
-    padding-right: 40px;
-}
-.menu a{
-    transition: 0.5s;
-    border-end-start-radius: 20px;
-    border-end-end-radius: 20px;
-    text-decoration: none;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: larger;
-    text-transform: uppercase;
-}
-
-.menu a:hover {
-    background-color: rgb(84, 196, 153);
-    text-decoration: none;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: 0.5s;
-}
-
