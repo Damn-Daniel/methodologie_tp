@@ -40,3 +40,8 @@ table .two>td{
     transition: 0.5s;
 }
 
+.patinRow{
+    max-height:50px;
+}
+
+}
