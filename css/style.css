@@ -9,7 +9,7 @@ body {
 
 }
 
-<<<<<<< HEAD
+
 table .one>td{
     background-color: rgba(134, 134, 134, 0.473);
     padding-right: 40px;
@@ -41,7 +41,6 @@ table .two>td{
     transition: 0.5s;
 }
 
-=======
 .wrapper{
     border: 2px solid black;
     border-radius: 5px;
@@ -51,6 +50,4 @@ table .two>td{
     max-height:50px;
 }
 }
->>>>>>> Daniel_employee
 
-}
